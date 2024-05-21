@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, Shehan Samarasena
+#### Software Development
+![Software Development](https://github.com/ShehanCodes/ShehanCodes/blob/main/github-header-image.png)
 
-<!--
-**ShehanCodes/ShehanCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Developer with a comprehensive background in both front-end and back-end technologies. Currently, I'm pursuing a Master's degree in Information Systems at Friedrich Alexander University of Erlangen-Nuremberg.
 
-Here are some ideas to get you started:
+Skills: C, Python, JavaScript, HTML, CSS, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
