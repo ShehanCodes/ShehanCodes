@@ -1,5 +1,4 @@
 ### Hi there 👋, Shehan Samarasena
-#### Software Development
 
 I'm a passionate Software Developer with a comprehensive background in both front-end and back-end technologies. Currently, I'm pursuing a Master's degree in Information Systems at Friedrich Alexander University of Erlangen-Nuremberg.
 
