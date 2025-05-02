@@ -4,8 +4,8 @@ I'm a passionate Software Developer with a comprehensive background in both fron
 
 🔧 Tech Stack:
 
-Languages: C, Python, JavaScript, HTML, CSS, SQL
-Technologies: PowerBI, Advanced Excel
+Languages: Java, C, Python, JavaScript, HTML, CSS, SQL
+Technologies: PowerBI
 Areas of Focus: Large Language Models, Retrieval Augmented Generation
 
 💼 Professional Experience:
