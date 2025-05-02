@@ -4,9 +4,9 @@ A passionate **Software Developer** with a strong foundation in both front-end a
 ---
 
 ### 🎓 Education  
-- 🎓 **Master’s in International Information Systems**  
+-  **Master’s in International Information Systems**  
   Friedrich Alexander University of Erlangen-Nuremberg  
-- 🎓 **Bachelor’s in Business Economics**  
+-  **Bachelor’s in Business Economics**  
   University of Colombo  
 
 ---
@@ -22,9 +22,6 @@ A passionate **Software Developer** with a strong foundation in both front-end a
 
 **⚙️ DevOps & Tools:**  
 - `Docker`, `Jenkins`, `CI/CD`, `Azure`, `GitHub`, `GitLab`
-
-**🧪 Testing & QA:**  
-- `PyTest`
 
 **📊 Data & Visualization:**  
 - `PowerBI`, `Advanced Excel`
