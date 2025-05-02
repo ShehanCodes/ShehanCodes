@@ -24,7 +24,7 @@ A passionate **Software Developer** with a strong foundation in both front-end a
 - `Docker`, `Jenkins`, `CI/CD`, `Azure`, `GitHub`, `GitLab`
 
 **📊 Data & Visualization:**  
-- `PowerBI`, `Advanced Excel`
+- `PowerBI`
 
 **🧠 AI & ML:**  
 - `Large Language Models`, `Retrieval-Augmented Generation (RAG)`, `LangChain`, `Hugging Face`, `Cognigy`
