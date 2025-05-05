@@ -36,7 +36,7 @@ A passionate **Software Developer** with a strong foundation in both front-end a
 **🔹 Management Information Systems Analyst – Moody's Analytics**  
 🗓️ 2 years  
 - Specialized in **data analysis**, **database management**, and **visualization**  
-- Tools: Python, PowerBI, Excel  
+- Tech Stack: Python, PowerBI, Excel  
 
 ---
 
