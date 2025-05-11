@@ -16,8 +16,8 @@ A passionate **Software Developer** with a strong foundation in both front-end a
 **💡 Languages:**  
 - `Java`, `Python`, `C`, `JavaScript`, `TypeScript`, `HTML`, `CSS`
 
-**🧰 Frameworks / Libraries / Tools:**  
-- `NodeJS`, `Flask`, `React`, `WordPress`
+**🧰 Frameworks / Runtimes/ Libraries / Tools:**  
+- `Spring Boot`, `React`, `Next.js`, `Node.js`, `Express.js`, `Flask`, `WordPress`
 
 **🗄️ Databases:**  
 - `MySQL`, `PostgreSQL`
