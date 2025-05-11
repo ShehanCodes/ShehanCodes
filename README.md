@@ -13,9 +13,11 @@ A passionate **Software Developer** with a strong foundation in both front-end a
 
 ### 💻 Tech Stack  
 
-**💡 Languages & Frameworks:**  
-- Backend: `Java`, `Python`, `C`, `NodeJS`, `Flask`  
-- Frontend: `JavaScript`, `TypeScript`, `React`, `HTML`, `CSS`, `WordPress`
+**💡 Languages:**  
+- `Java`, `Python`, `C`, `JavaScript`, `TypeScript`, `HTML`, `CSS`
+
+**🧰 Frameworks / Libraries / Tools:**  
+- `NodeJS`, `Flask`, `React`, `WordPress`
 
 **🗄️ Databases:**  
 - `MySQL`, `PostgreSQL`
@@ -43,17 +45,3 @@ A passionate **Software Developer** with a strong foundation in both front-end a
 ### 🤝 Let's Connect  
 💬 I'm open to **new opportunities**, **collaborations**, and **innovative ideas** in the tech space.  
 📫 Feel free to connect with me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
