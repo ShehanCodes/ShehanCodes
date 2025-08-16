@@ -44,4 +44,4 @@ A passionate **Software Developer** with a strong foundation in both front-end a
 
 ### 🤝 Let's Connect  
 💬 I'm open to **new opportunities**, **collaborations**, and **innovative ideas** in the tech space.  
-📫 Feel free to connect with me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+📫 Feel free to connect with me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/shehansamarasena/)
