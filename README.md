@@ -14,10 +14,10 @@ A passionate **Software Developer** with a strong foundation in both front-end a
 ### 💻 Tech Stack  
 
 **💡 Languages:**  
-- `Java`, `Python`, `C`, `JavaScript`, `TypeScript`, `HTML`, `CSS`
+- `Java`, `Python`, `C`, `JavaScript`, `TypeScript`, `PHP`, `HTML`, `CSS`
 
 **🧰 Frameworks / Runtimes/ Libraries / Tools:**  
-- `Spring Boot`, `React`, `Next.js`, `Node.js`, `Express.js`, `Flask`, `WordPress`
+- `Spring Boot`, `Laravel`, `React`, `Next.js`, `Node.js`, `Express.js`, `Flask`, `WordPress`
 
 **🗄️ Databases:**  
 - `MySQL`, `PostgreSQL`
@@ -26,7 +26,7 @@ A passionate **Software Developer** with a strong foundation in both front-end a
 - `Docker`, `Jenkins`, `CI/CD`, `Azure`, `GitHub`, `GitLab`
 
 **🧠 AI & ML:**  
-- `Large Language Models`, `Retrieval-Augmented Generation (RAG)`, `LangChain`, `Hugging Face`, `Cognigy`
+- `Large Language Models`, `Retrieval-Augmented Generation (RAG)`, `Agentic AI`, `LangChain`, `Hugging Face`, `n8n workflows`, `Cognigy`
 
 ---
 
