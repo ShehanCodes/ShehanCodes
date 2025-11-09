@@ -1,34 +1,45 @@
-# 👋 Hi, I'm Shehan Samarasena  
+# 👋 Hi, I'm Shehan Samarasena
 
-💡 **AI Software Engineer & Founder of [Cognivox Labs](https://cognivoxlabs.com)**  
-Building **AI-powered web apps, SaaS tools, and automation solutions** using modern full-stack and LLM technologies.
+**Software Developer & Founder — [Cognivox Labs](https://cognivoxlabs.com)**  
+I build **AI-powered web applications** and **automation systems** that combine solid engineering with intelligent design.
 
 ---
 
-### 💻 Tech Stack  
-**AI / Automation:** RAG · LangChain · LLMs · Hugging Face · n8n  
-**Frontend:** React · Next.js · TypeScript  
-**Backend:** Python · Node.js · Spring Boot · Laravel  
+### 🧠 Focus Areas
+- AI & LLMs — RAG, LangChain, Hugging Face, Agentic AI  
+- Full-stack Development — Next.js, React, Node.js, Spring Boot, Laravel  
+- Automation — n8n, CrewAI, Cognigy  
+- Cloud & DevOps — Docker, Hetzner, Azure, CI/CD  
+
+---
+
+### 🧩 Tech Stack
+**Languages:** Python · Java · TypeScript · JavaScript · PHP  
+**Frameworks:** Next.js · React · Flask · Express · Laravel  
 **Databases:** PostgreSQL · MySQL · Supabase  
-**DevOps:** Docker · CI/CD · Azure · Hetzner  
+**Tools:** Docker · GitHub Actions · Coolify · Azure  
 
 ---
 
-### 🎓 Education  
-🎓 Master’s in International Information Systems — *FAU Erlangen–Nuremberg*  
-🎓 Bachelor’s in Business Economics — *University of Colombo*  
+### 🎓 Education
+- **M.Sc. International Information Systems** — FAU Erlangen–Nuremberg  
+- **B.A. Business Economics** — University of Colombo  
 
 ---
 
-### 💼 Experience  
-**Founder, Cognivox Labs** — AI software development, automation, and SaaS projects  
-**Ex-Moody’s Analytics** — 2 yrs in data analysis & systems reporting  
+### 💼 Experience
+**Founder — Cognivox Labs**  
+AI software development, workflow automation, and SaaS platforms.  
+
+**Former MIS Analyst — Moody’s Analytics**  
+Data analytics and systems automation (Python, Power BI, Excel).  
 
 ---
 
-### 🤝 Connect  
-📫 shehan@cognivoxlabs.de  
+### 🤝 Connect
+📧 shehan@cognivoxlabs.de  
 🔗 [LinkedIn](https://www.linkedin.com/in/shehansamarasena/) · [Website](https://cognivoxlabs.com)
 
 ---
-⭐ *Building Intelligent Digital Solutions with AI.*
+
+*Building Intelligent Digital Solutions with AI.*
