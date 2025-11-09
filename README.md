@@ -1,44 +1,67 @@
-### 👋 Hi there, I'm Shehan Samarasena  
-A passionate **Software Developer** with a strong foundation in both front-end and back-end technologies.
+# 👋 Hi there, I'm Shehan Samarasena  
+
+**AI Software Engineer & Founder of [Cognivox Labs](https://cognivoxlabs.de)**  
+
+Building **AI-powered web applications, SaaS tools, and intelligent automation systems**.  
+I love bridging the gap between **software engineering and artificial intelligence** from modern full-stack development to **RAG pipelines** and **Agentic AI**.
 
 ---
 
-### 🎓 Education  
--  **Master’s in International Information Systems**  
-  Friedrich Alexander University of Erlangen-Nuremberg  
--  **Bachelor’s in Business Economics**  
-  University of Colombo  
+## 🎓 Education  
+- 🎓 **Master’s in International Information Systems**  
+  *Friedrich Alexander University of Erlangen–Nuremberg, Germany*  
+- 🎓 **Bachelor’s in Business Economics**  
+  *University of Colombo, Sri Lanka*  
 
 ---
 
-### 💻 Tech Stack  
+## 💻 Tech Stack  
 
-**💡 Languages:**  
-- `Java`, `Python`, `C`, `JavaScript`, `TypeScript`, `PHP`, `HTML`, `CSS`
+### 🧠 Artificial Intelligence & Automation  
+`LLMs` · `Retrieval-Augmented Generation (RAG)` · `LangChain` · `Hugging Face` · `Agentic AI` · `n8n` · `Cognigy`
 
-**🧰 Frameworks / Runtimes/ Libraries / Tools:**  
-- `Spring Boot`, `Laravel`, `React`, `Next.js`, `Node.js`, `Express.js`, `Flask`, `WordPress`
+### 💡 Languages  
+`Python` · `Java` · `C` · `JavaScript` · `TypeScript` · `PHP` · `HTML` · `CSS`
 
-**🗄️ Databases:**  
-- `MySQL`, `PostgreSQL`
+### ⚙️ Frameworks / Libraries / Tools  
+`Next.js` · `React` · `Spring Boot` · `Flask` · `Node.js` · `Express.js` · `Laravel` · `WordPress`
 
-**⚙️ DevOps & Tools:**  
-- `Docker`, `Jenkins`, `CI/CD`, `Azure`, `GitHub`, `GitLab`
+### 🗄️ Databases  
+`PostgreSQL` · `MySQL` · `Supabase` · `Pinecone` · `pgvector`
 
-**🧠 AI & ML:**  
-- `Large Language Models`, `Retrieval-Augmented Generation (RAG)`, `Agentic AI`, `LangChain`, `Hugging Face`, `n8n workflows`, `Cognigy`
-
----
-
-### 💼 Experience  
-
-**🔹 Management Information Systems Analyst – Moody's Analytics**  
-🗓️ 2 years  
-- Specialized in **data analysis**, **database management**, and **visualization**  
-- Tech Stack: Python, PowerBI, Excel  
+### 🚀 DevOps & Cloud  
+`Docker` · `CI/CD` · `Azure` · `Hetzner` · `Coolify` · `GitHub Actions` · `GitLab` · `Jenkins`
 
 ---
 
-### 🤝 Let's Connect  
-💬 I'm open to **new opportunities**, **collaborations**, and **innovative ideas** in the tech space.  
-📫 Feel free to connect with me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/shehansamarasena/)
+## 💼 Experience  
+
+### 🔹 Founder & AI Software Engineer — **Cognivox Labs**  
+📍 *Germany | Present*  
+- Developing **AI-driven SaaS and web platforms** using modern full-stack and LLM technologies  
+- Integrating **LangChain**, **Supabase**, and **OpenAI APIs** into production-grade systems  
+- Designing scalable **RAG**, **agentic**, and **workflow automation** solutions  
+
+### 🔹 Management Information Systems Analyst — **Moody’s Analytics**  
+📍 *Sri Lanka | 2 Years*  
+- Specialized in **data analysis**, **database management**, and **business reporting**  
+- Tech Stack: `Python`, `Power BI`, `Excel`
+
+---
+
+## 🌍 Projects & Interests  
+- 🧩 **AI SaaS:** Letter generator app with GPT automation  
+- 🧠 **RAG Research:** Master’s thesis on enhancing retrieval pipelines with neural re-ranking  
+- ⚡ **Web Apps:** Next.js, Laravel, and React-based business solutions  
+- 💬 **Automation:** AI workflows with n8n, CrewAI, and MCP integration  
+
+---
+
+## 🤝 Let's Connect  
+
+💬 Open to **collaborations**, **AI projects**, and **startup partnerships**.  
+📫 Email: **shehan@cognivoxlabs.de**  
+🔗 [LinkedIn](https://www.linkedin.com/in/shehansamarasena/) • [Website](https://cognivoxlabs.de)
+
+---
+⭐️ *"Building Intelligent Web Applications & AI-Powered Solutions at Cognivox Labs."*
