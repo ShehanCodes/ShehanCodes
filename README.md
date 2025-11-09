@@ -45,7 +45,7 @@ I love bridging the gap between **software engineering and artificial intelligen
 ### 🔹 Management Information Systems Analyst — **Moody’s Analytics**  
 📍 *Sri Lanka | 2 Years*  
 - Specialized in **data analysis**, **database management**, and **business reporting**  
-- Tech Stack: `Python`, `Power BI`, `Excel`
+- Tech Stack: `Python`, `Power BI`
 
 ---
 
@@ -63,5 +63,3 @@ I love bridging the gap between **software engineering and artificial intelligen
 📫 Email: **shehan@cognivoxlabs.de**  
 🔗 [LinkedIn](https://www.linkedin.com/in/shehansamarasena/) • [Website](https://cognivoxlabs.de)
 
----
-⭐️ *"Building Intelligent Web Applications & AI-Powered Solutions at Cognivox Labs."*
