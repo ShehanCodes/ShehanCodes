@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shehan Samarasena
 
-**Software Developer & Founder — [Cognivox Labs](https://cognivoxlabs.com)**  
+**AI Software Engineer & Founder — [Cognivox Labs](https://cognivoxlabs.com)**  
 I build **AI-powered web applications** and **automation systems** that combine solid engineering with intelligent design.
 
 ---
