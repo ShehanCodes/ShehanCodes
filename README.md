@@ -14,7 +14,7 @@ I build **AI-powered web applications** and **automation systems** that combine 
 ---
 
 ### 🧩 Tech Stack
-**Languages:** Python · Java · TypeScript · JavaScript · PHP  
+**Languages:** Python · PHP · JavaScript  · Java · TypeScript  
 **Frameworks:** Next.js · React · Flask · Express · Laravel  
 **Databases:** PostgreSQL · MySQL · Supabase  
 **Tools:** Docker · GitHub Actions · Coolify · Azure  
@@ -23,13 +23,13 @@ I build **AI-powered web applications** and **automation systems** that combine 
 
 ### 🎓 Education
 - **M.Sc. International Information Systems** — FAU Erlangen–Nuremberg  
-- **B.A. Business Economics** — University of Colombo  
+- **B.B.A. Business Economics** — University of Colombo  
 
 ---
 
 ### 💼 Experience
 **Founder — Cognivox Labs**  
-AI software development, workflow automation, and SaaS platforms.  
+AI software development, workflow automation, mobile app development, and SaaS platforms.  
 
 **Former MIS Analyst — Moody’s Analytics**  
 Data analytics and systems automation (Python, Power BI, Excel).  
