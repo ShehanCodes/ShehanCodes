@@ -1,17 +1,7 @@
 # 👋 Hi, I'm Shehan Samarasena
 
 **AI Software Engineer · Founder @ Cognivox Labs**  
-I build **AI-powered web applications, RAG systems, and automation platforms** — from idea to production.
-
-My work focuses on combining **LLMs, solid backend engineering, and scalable infrastructure** to solve real-world business problems.
-
----
-
-## 🚀 What I’m Working On
-- AI-powered SaaS platforms & marketplaces  
-- Retrieval-Augmented Generation (RAG) pipelines  
-- Agent-based automation systems  
-- Production-ready full-stack web applications  
+Building **AI-powered SaaS, RAG systems, and automation platforms** with production-grade engineering.
 
 ---
 
@@ -25,24 +15,9 @@ My work focuses on combining **LLMs, solid backend engineering, and scalable inf
 ---
 
 ## 🧩 Tech Stack
-
-### Languages
-Python · JavaScript · TypeScript · PHP · Java  
-
-### Frameworks
-Laravel · Next.js · React · Flask · Express · Spring Boot  
-
-### Laravel Ecosystem
-Laravel Sanctum · Reverb · Queues · Jobs · Events · Horizon · Forge  
-
-### Databases & Caching
-PostgreSQL · MySQL · Redis  
-
-### Storage & Networking
-Cloudflare R2 · Cloudflare CDN · Object Storage  
-
-### Infrastructure & Tooling
-Docker · GitHub Actions · Coolify · Azure · Git  
+**Languages:** Python · PHP · JavaScript · TypeScript · Java  
+**Frameworks:** Laravel (Sanctum, Reverb, Queues, Horizon, Forge) · Next.js · React  
+**Data & Infra:** PostgreSQL · MySQL · Redis · Cloudflare R2 · Docker  
 
 ---
 
@@ -56,16 +31,9 @@ Docker · GitHub Actions · Coolify · Azure · Git
 **Founder — Cognivox Labs**  
 Developing AI-driven software solutions, workflow automation, SaaS products, and production-grade web platforms.
 
-**Former MIS Analyst — Moody’s Analytics**  
+**MIS Analyst — Moody’s Analytics**  
 Data analytics and systems automation using Python, Power BI, and enterprise data workflows.
 
 ---
 
-## 🤝 Let’s Connect
-📧 **shehan@cognivoxlabs.de**  
-🔗 [LinkedIn](https://www.linkedin.com/in/shehansamarasena/)  
-🌐 [cognivoxlabs.com](https://cognivoxlabs.com)
-
----
-
-_Engineering intelligent systems that scale._
+📧 **shehan@cognivoxlabs.de** · 🔗 [LinkedIn](https://www.linkedin.com/in/shehansamarasena/) · 🌐 [cognivoxlabs.com](https://cognivoxlabs.com)
