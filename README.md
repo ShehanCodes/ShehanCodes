@@ -3,23 +3,23 @@
 **AI Software Engineer · Founder @ Cognivox Labs**  
 Building **AI-powered SaaS, RAG systems, and automation platforms** with production-grade engineering.
 
-## 🧠 Core Expertise
+## Core Expertise
 - **AI & LLMs:** RAG, LangChain, Hugging Face, Agentic AI  
 - **Backend & APIs:** Laravel, Node.js, Spring Boot  
 - **Frontend:** Next.js, React  
 - **Automation:** n8n, CrewAI, Cognigy  
 - **Cloud & DevOps:** Docker, CI/CD, Hetzner, Azure  
 
-## 🧩 Tech Stack
+## Tech Stack
 **Languages:** Python · PHP · JavaScript · TypeScript · Java  
 **Frameworks:** Laravel (Sanctum, Reverb, Queues, Horizon, Forge) · Next.js · React  
 **Data & Infra:** PostgreSQL · MySQL · Redis · Cloudflare R2 · Docker  
 
-## 🎓 Education
+## Education
 - **M.Sc. International Information Systems** — FAU Erlangen–Nuremberg  
 - **B.B.A. Business Economics** — University of Colombo  
 
-## 💼 Experience
+## Experience
 **Founder — Cognivox Labs**  
 Developing AI-driven software solutions, workflow automation, SaaS products, and production-grade web platforms.
 
