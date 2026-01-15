@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shehan Samarasena
 
 **AI Software Engineer · Founder @ Cognivox Labs**  
-Building **AI-powered SaaS, RAG systems, and automation platforms** with production-grade engineering.
+Building **AI-powered SaaS, RAG Systems,Mobile Applications, and Automation Platforms** with production-grade engineering.
 
 ## Core Expertise
 - **AI & LLMs:** RAG, LangChain, Hugging Face, Agentic AI  
