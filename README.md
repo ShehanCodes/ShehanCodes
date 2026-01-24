@@ -12,7 +12,7 @@ Building **AI-powered SaaS, RAG Systems,Mobile Applications, and Automation Plat
 
 ## Tech Stack
 **Languages:** Python · PHP · JavaScript · TypeScript · Java  
-**Frameworks:** Laravel (Sanctum, Reverb, Queues, Horizon, Forge) · Next.js · React  
+**Frameworks:** Laravel (Sanctum, Reverb, Queues, Horizon) · Next.js · React  
 **Data & Infra:** PostgreSQL · MySQL · Redis · Cloudflare R2 · Docker  
 
 ## Education
