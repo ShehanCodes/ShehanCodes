@@ -8,7 +8,7 @@ Building **AI-powered SaaS, RAG Systems,Mobile Applications, and Automation Plat
 - **Backend & APIs:** Laravel, Node.js, Spring Boot  
 - **Frontend:** Next.js, React  
 - **Automation:** n8n, CrewAI, Cognigy  
-- **Cloud & DevOps:** Docker, CI/CD, Hetzner, Azure  
+- **Cloud & DevOps:** Docker, Github Actions, CI/CD, Hetzner, Azure, AWS 
 
 ## Tech Stack
 **Languages:** Python · PHP · JavaScript · TypeScript · Java  
