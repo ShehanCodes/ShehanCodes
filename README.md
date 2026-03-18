@@ -5,7 +5,7 @@ Building **AI-powered SaaS, RAG Systems,Mobile Applications, and Automation Plat
 
 ## Core Expertise
 - **AI & LLMs:** RAG, LangChain, Hugging Face, Agentic AI  
-- **Backend & APIs:** Laravel, Node.js, Spring Boot  
+- **Backend & APIs:** System Design, Laravel, Node.js, Spring Boot  
 - **Frontend:** Next.js, React  
 - **Automation:** n8n, CrewAI, Cognigy  
 - **Cloud & DevOps:** Docker, Github Actions, CI/CD, Hetzner, Azure, AWS 
