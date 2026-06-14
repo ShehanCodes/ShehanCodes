@@ -21,7 +21,7 @@ My work focuses on combining **AI engineering, backend architecture, and product
 
 ## 🎓 Background
 
-* **M.Sc. International Information Systems** — FAU Erlangen–Nürnberg
+* **M.Sc. Information Systems** — FAU Erlangen–Nürnberg
 * **B.B.A. Business Economics** — University of Colombo
 * Former **MIS Analyst at Moody’s Analytics**, now building AI-driven software products at **Cognivox Labs**
 
