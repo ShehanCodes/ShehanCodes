@@ -27,4 +27,4 @@ My work focuses on combining **AI engineering, backend architecture, and product
 
 ## 📫 Connect
 
-📧 **shehan@cognivoxlabs.de** · 🔗 [LinkedIn](https://www.linkedin.com/in/shehansamarasena/) · 🌐 [cognivoxlabs.com](https://cognivoxlabs.com)
+📧 **shehan@cognivoxlabs.com** · 🔗 [LinkedIn](https://www.linkedin.com/in/shehansamarasena/) · 🌐 [cognivoxlabs.com](https://cognivoxlabs.com)
